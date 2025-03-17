@@ -1,6 +1,6 @@
-# Aria-Homepage
+![Aria Logo](/workspaces/Aria-Homepage/homepage/logo.png)
+# Aria-Homepage 
 
-![Aria Logo](path/to/your/logo.png)
 ARIA - Modern New Tab Page
 
 ## Overview
