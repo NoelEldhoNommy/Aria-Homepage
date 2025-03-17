@@ -1,4 +1,4 @@
-![Aria Logo](/workspaces/Aria-Homepage/homepage/logo.png)
+![Aria Logo](homepage/logo.png)
 # Aria-Homepage 
 
 ARIA - Modern New Tab Page
