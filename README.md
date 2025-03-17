@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/logo.png" alt="Aria Logo" />
+  <img src="homepage/logo.png" alt="Aria Logo" />
 </p>
 
 <h1 align="center">Homepage</h1>
@@ -39,13 +39,13 @@ To install and set up ARIA as your new tab homepage, follow these steps:
 1. Open Chrome and navigate to `chrome://extensions`.
 2. Enable **Developer mode** using the toggle in the top-right.
 3. Click on **Load unpacked**.
-4. Select the project folder (`/workspaces/Aria-Homepage`).
+4. Select the project folder (`/Homepage`).
 
 ## Usage
 Once installed, every new tab will display the ARIA homepage, featuring the central search bar, real-time date and time, and the calming gradient background.
 
 ## Screenshots
-![ARIA Homepage](path_to_screenshot)
+![ARIA Homepage](image.png)
 
 ## Contributing
 We welcome contributions to enhance ARIA. To contribute, follow these steps:
