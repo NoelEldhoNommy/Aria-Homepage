@@ -19,7 +19,7 @@ ARIA is a sleek, minimalistic homepage designed to enhance your browsing experie
 - **Elegant Branding**: Minimalistic and elegant "ARIA" branding for a modern look.
 
 ## Preview
-You can view a live preview of the ARIA homepage [here](http://127.0.0.1/).
+You can view a live preview of the ARIA homepage [here](https://aria-homepage.tiiny.site/).
 
 ## Installation
 To install and set up ARIA as your new tab homepage, follow these steps:
