@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="homepage/logo.png" alt="Aria Logo" />
+  <img src="path/to/your/logo.png" alt="Aria Logo" />
 </p>
 
-<h1 align="center">Aria-Homepage</h1>
+<h1 align="center">Homepage</h1>
 
 ARIA - Modern New Tab Page
 
@@ -14,6 +14,9 @@ ARIA is a sleek, minimalistic homepage designed to enhance your browsing experie
 - **Central Search Bar**: Quickly search the web with a central search bar.
 - **Real-time Date and Time Display**: Always stay updated with the current date and time.
 - **Elegant Branding**: Minimalistic and elegant "ARIA" branding for a modern look.
+
+## Preview
+You can view a live preview of the ARIA homepage [here](https://your-preview-link.com).
 
 ## Installation
 To install and set up ARIA as your new tab homepage, follow these steps:
