@@ -1,5 +1,8 @@
-![Aria Logo](homepage/logo.png)
-# Aria-Homepage 
+<p align="center">
+  <img src="homepage/logo.png" alt="Aria Logo" />
+</p>
+
+<h1 align="center">Aria-Homepage</h1>
 
 ARIA - Modern New Tab Page
 
