@@ -4,7 +4,7 @@
 
 <h1 align="center">Homepage</h1>
 
-Beautiful Homepage, crafted with love
+Beautiful Homepage, crafted with love ❤️ by Noel Eldho Nommy 💪
 
 ## Overview
 ARIA is a sleek, minimalistic homepage designed to enhance your browsing experience. It features a calming gradient design, a central search bar, a real-time date and time display, and elegant "ARIA" branding.
