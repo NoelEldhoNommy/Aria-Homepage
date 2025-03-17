@@ -16,7 +16,7 @@ ARIA is a sleek, minimalistic homepage designed to enhance your browsing experie
 - **Elegant Branding**: Minimalistic and elegant "ARIA" branding for a modern look.
 
 ## Preview
-You can view a live preview of the ARIA homepage [here](https://your-preview-link.com).
+You can view a live preview of the ARIA homepage [here](http://127.0.0.1/).
 
 ## Installation
 To install and set up ARIA as your new tab homepage, follow these steps:
@@ -33,6 +33,14 @@ To install and set up ARIA as your new tab homepage, follow these steps:
 3. **Set as Homepage**:
    - Follow your browser’s instructions to set a custom homepage or new tab page and select the `index.html` file.
 
+## Adding as an Unpackaged Extension
+
+### For Google Chrome:
+1. Open Chrome and navigate to `chrome://extensions`.
+2. Enable **Developer mode** using the toggle in the top-right.
+3. Click on **Load unpacked**.
+4. Select the project folder (`/workspaces/Aria-Homepage`).
+
 ## Usage
 Once installed, every new tab will display the ARIA homepage, featuring the central search bar, real-time date and time, and the calming gradient background.
 
@@ -47,13 +55,13 @@ We welcome contributions to enhance ARIA. To contribute, follow these steps:
 
 2. **Clone Your Fork**:
     ```sh
-    git clone https://github.com/your-username/Aria-Homepage.git
+    git clone https://github.com/NoelEldhoNommy/Aria-Homepage.git
     cd Aria-Homepage
     ```
 
 3. **Create a Branch**:
     ```sh
-    git checkout -b feature/your-feature-name
+    git checkout -b NoelEldhoNommy/Aria-Homepage
     ```
 
 4. **Make Your Changes**:
