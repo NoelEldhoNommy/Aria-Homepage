@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Custom Homepage New Tab",
+    "description": "Replaces the New Tab page with a custom homepage",
+    "version": "1.0",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "icons": {
+      "128": "favicon.ico"
+    },
+    "permissions": []
+  }
