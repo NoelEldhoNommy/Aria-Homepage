@@ -9,6 +9,9 @@ ARIA - Modern New Tab Page
 ## Overview
 ARIA is a sleek, minimalistic homepage designed to enhance your browsing experience. It features a calming gradient design, a central search bar, a real-time date and time display, and elegant "ARIA" branding.
 
+## Screenshots
+![ARIA Homepage](image.png)
+
 ## Features
 - **Calming Gradient Design**: Enjoy a soothing background that changes color gradients.
 - **Central Search Bar**: Quickly search the web with a central search bar.
@@ -44,8 +47,7 @@ To install and set up ARIA as your new tab homepage, follow these steps:
 ## Usage
 Once installed, every new tab will display the ARIA homepage, featuring the central search bar, real-time date and time, and the calming gradient background.
 
-## Screenshots
-![ARIA Homepage](image.png)
+
 
 ## Contributing
 We welcome contributions to enhance ARIA. To contribute, follow these steps:
