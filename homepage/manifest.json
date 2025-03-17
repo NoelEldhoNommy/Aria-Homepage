@@ -1,13 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "Custom Homepage New Tab",
-    "description": "Replaces the New Tab page with a custom homepage",
+    "name": "Aria Homepage",
+    "description": "ARIA is a sleek, minimalistic homepage designed to enhance your browsing experience. It features a calming gradient design, a central search bar, a real-time date and time display, and elegant ARIA branding.",
     "version": "1.0",
     "chrome_url_overrides": {
       "newtab": "index.html"
     },
     "icons": {
-      "128": "favicon.ico"
+      "128": "icon128.png"
     },
     "permissions": []
   }
